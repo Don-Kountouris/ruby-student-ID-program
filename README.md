@@ -1,3 +1,6 @@
+# THIS IS A VERY SIMPLE PROGRAM WRITTEN IN RUBY AND CREATED TO STORE A STUDENT'S ID DETAILS.
+
+
 # Ruby on Replit
 
 This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
