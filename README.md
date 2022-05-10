@@ -1,4 +1,4 @@
-# THIS IS A VERY SIMPLE PROGRAM WRITTEN IN RUBY AND CREATED TO STORE A STUDENT'S ID DETAILS.
+# This is a very simple program written in Ruby and created to store a student's ID details.
 
 
 # Ruby on Replit
